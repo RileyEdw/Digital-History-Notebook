@@ -25,7 +25,7 @@ Answer: git clone "the link"
 
 1.2: What was your first commit message to push this file to GitHub?
 
-Answer:
+Answer: git commit -m "Readme initial additions"
 
 Assignment 2: The Founding Visionaries
 
