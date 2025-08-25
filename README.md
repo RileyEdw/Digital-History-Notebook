@@ -73,6 +73,8 @@ Edit the README.md file directly.
 At the bottom of the README.md file, add a new section titled Timeline: The Rise of the Internet.
 
 In this new section, add a brief, bulleted timeline (7 points) of major milestones, such as the creation of ARPANET, the invention of TCP/IP, or the launch of the World Wide Web. Be sure to include pictures as well (might need to figure out how to add a picture in markdown).
+# Timeline: The Rise of the Internet
+1965: Two computers at MIT Lincoln Lab communicate with one another using packet-switching technology. This is one of the first instances of computer communicating with each other using packets.
 
 Commit this change directly on GitHub with the message: "Added internet timeline".
 
